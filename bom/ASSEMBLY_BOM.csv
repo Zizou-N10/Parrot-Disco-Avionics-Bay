@@ -1,0 +1,39 @@
+Item,Part Number,Description,Quantity,Material,Thickness (mm),Manufacturing Process,Finish,Mass Each (g),Total Mass (g),Purchased/Manufactured,Category,Revision
+1,PDB-01-101,PDB-01-101_Base_Tray,1,Aluminum 5052-H32,1.0,Laser Cut + Press-Brake (6 bends),Clear Chromate (MIL-DTL-5541),57.094,57.094,Manufactured,1. Manufactured Parts,R01
+2,PDB-01-102,PDB-01-102_Left_Side_Rail,1,Aluminum 5052-H32,1.0,Laser Cut + Press-Brake (4 bends),Clear Chromate (MIL-DTL-5541),19.245,19.245,Manufactured,1. Manufactured Parts,R01
+3,PDB-01-103,PDB-01-103_Right_Side_Rail,1,Aluminum 5052-H32,1.0,Laser Cut + Press-Brake (4 bends),Clear Chromate (MIL-DTL-5541),19.245,19.245,Manufactured,1. Manufactured Parts,R01
+4,PDB-01-104,PDB-01-104_Front_Bulkhead,1,Aluminum 5052-H32,1.0,Laser Cut + Press-Brake (4 bends),Clear Chromate (MIL-DTL-5541),9.738,9.738,Manufactured,1. Manufactured Parts,R01
+5,PDB-01-105,PDB-01-105_Rear_Bulkhead,1,Aluminum 5052-H32,1.0,Laser Cut + Press-Brake (3 bends),Clear Chromate (MIL-DTL-5541),7.648,7.648,Manufactured,1. Manufactured Parts,R01
+6,PDB-02-201,PDB-02-201_Main_Top_Cover,1,Aluminum 5052-H32,0.8,Laser Cut + Press-Brake (4 bends),Clear Chromate (MIL-DTL-5541),27.307,27.307,Manufactured,1. Manufactured Parts,R01
+7,PDB-02-202,PDB-02-202_Service_Access_Hatch,1,Aluminum 5052-H32,0.8,Laser Cut + Press-Brake Hemming,Clear Chromate (MIL-DTL-5541),9.331,9.331,Manufactured,1. Manufactured Parts,R01
+8,PDB-02-203,PDB-02-203_Hatch_Retainer_Strip,2,Aluminum 5052-H32,0.8,Laser Cut + Deburr,Clear Chromate (MIL-DTL-5541),1.125,2.25,Manufactured,1. Manufactured Parts,R01
+9,PDB-03-301,PDB-03-301_Main_Equipment_Deck,1,Aluminum 5052-H32,1.0,Laser Cut + Press-Brake (3 bends),Clear Chromate (MIL-DTL-5541),15.209,15.209,Manufactured,1. Manufactured Parts,R01
+10,PDB-03-302,PDB-03-302_PCB_Retaining_Bracket,2,Aluminum 5052-H32,1.0,Laser Cut + Press-Brake (1 bends),Clear Chromate (MIL-DTL-5541),1.045,2.09,Manufactured,1. Manufactured Parts,R01
+11,PDB-04-402,PDB-04-402_Battery_Retention_Cradle,2,Aluminum 5052-H32,1.0,Laser Cut + Press-Brake (2 bends),Clear Chromate (MIL-DTL-5541),1.609,3.217,Manufactured,1. Manufactured Parts,R01
+12,PDB-06-601,PDB-06-601_Connector_Bulkhead_Plate,1,Aluminum 5052-H32,1.0,Laser Cut + Press-Brake (1 bends),Clear Chromate (MIL-DTL-5541),3.755,3.755,Manufactured,1. Manufactured Parts,R01
+13,PDB-06-605,PDB-06-605_Cable_Strain_Relief_Bar,1,Aluminum 5052-H32,1.0,Laser Cut + Press-Brake (1 bends),Clear Chromate (MIL-DTL-5541),2.109,2.109,Manufactured,1. Manufactured Parts,R01
+14,PDB-07-701,PDB-07-701_Cable_Routing_Channel,1,Aluminum 5052-H32,0.8,Laser Cut + Press-Brake (2 bends),Clear Chromate (MIL-DTL-5541),2.953,2.953,Manufactured,1. Manufactured Parts,R01
+15,PDB-07-702,PDB-07-702_Cable_Retention_Clamp,3,Aluminum 5052-H32,0.8,Laser Cut + Press-Brake (2 bends),Clear Chromate (MIL-DTL-5541),0.268,0.803,Manufactured,1. Manufactured Parts,R01
+16,PDB-03-303,PDB-03-303_Deck_Standoff_M2_5x6,4,Stainless Steel 304 (A2-70),N/A,COTS Precision Machined / Cold-Formed,Passivated Stainless,0.67,2.682,Purchased,2. Purchased Hardware,R01
+17,PDB-03-304,PDB-03-304_PCB_Standoff_M2x4,24,Stainless Steel 304 (A2-70),N/A,COTS Precision Machined / Cold-Formed,Passivated Stainless,0.284,6.816,Purchased,2. Purchased Hardware,R01
+18,PDB-06-602,PDB-06-602_Circular_Connector_M10,2,Stainless Steel 304 (A2-70),N/A,COTS Precision Machined / Cold-Formed,Nickel / Anodized,3.843,7.685,Purchased,2. Purchased Hardware,R01
+19,PDB-06-603,PDB-06-603_Rect_Connector_MicroD,1,Stainless Steel 304 (A2-70),N/A,COTS Precision Machined / Cold-Formed,Nickel / Anodized,4.049,4.049,Purchased,2. Purchased Hardware,R01
+20,PDB-08-801,PDB-08-801_Screw_M2_5x5_BHCS,32,Stainless Steel 304 (A2-70),N/A,COTS Precision Machined / Cold-Formed,Passivated Stainless,0.34,10.89,Purchased,2. Purchased Hardware,R01
+21,PDB-08-802,PDB-08-802_Washer_M2_5_Flat,12,Stainless Steel 304 (A2-70),N/A,COTS Precision Machined / Cold-Formed,Passivated Stainless,0.07,0.844,Purchased,2. Purchased Hardware,R01
+22,PDB-08-803,PDB-08-803_Nut_M2_5_Locknut,24,Stainless Steel 304 (A2-70),N/A,COTS Precision Machined / Cold-Formed,Passivated Stainless,0.23,5.513,Purchased,2. Purchased Hardware,R01
+23,PDB-08-804,PDB-08-804_Screw_M2_0x4_BHCS,24,Stainless Steel 304 (A2-70),N/A,COTS Precision Machined / Cold-Formed,Passivated Stainless,0.169,4.067,Purchased,2. Purchased Hardware,R01
+24,PDB-08-806,PDB-08-806_Screw_M2_0x3_BHCS,8,Stainless Steel 304 (A2-70),N/A,COTS Precision Machined / Cold-Formed,Passivated Stainless,0.145,1.16,Purchased,2. Purchased Hardware,R01
+25,PDB-08-807,PDB-08-807_Rivet_M2_0_Blind,9,Stainless Steel 304 (A2-70),N/A,COTS Precision Machined / Cold-Formed,Passivated Stainless,0.092,0.826,Purchased,2. Purchased Hardware,R01
+26,PDB-08-808,PDB-08-808_Rivet_M2_5_Blind,4,Stainless Steel 304 (A2-70),N/A,COTS Precision Machined / Cold-Formed,Passivated Stainless,0.151,0.604,Purchased,2. Purchased Hardware,R01
+27,PDB-04-401,PDB-04-401_Battery_Envelope_3S2700,1,3S 2700mAh LiPo Envelope Placeholder,N/A,Packaging Envelope (Assumed),Not Applicable (Envelope),195.0,195.0,Placeholder (GFE/Assumed),3. Electronic Equipment Placeholders,R01
+28,PDB-05-501,PDB-05-501_Flight_Computer_Placeholder,1,Avionics Module Placeholder (FR4 Eq.),N/A,Packaging Envelope (Assumed),Not Applicable (Envelope),28.0,28.0,Placeholder (GFE/Assumed),3. Electronic Equipment Placeholders,R01
+29,PDB-05-502,PDB-05-502_GNSS_Module_Placeholder,1,Avionics Module Placeholder (FR4 Eq.),N/A,Packaging Envelope (Assumed),Not Applicable (Envelope),12.0,12.0,Placeholder (GFE/Assumed),3. Electronic Equipment Placeholders,R01
+30,PDB-05-503,PDB-05-503_Sensor_Interface_Placeholder,1,Avionics Module Placeholder (FR4 Eq.),N/A,Packaging Envelope (Assumed),Not Applicable (Envelope),15.0,15.0,Placeholder (GFE/Assumed),3. Electronic Equipment Placeholders,R01
+31,PDB-05-504,PDB-05-504_Power_Distribution_Placeholder,1,Avionics Module Placeholder (FR4 Eq.),N/A,Packaging Envelope (Assumed),Not Applicable (Envelope),18.0,18.0,Placeholder (GFE/Assumed),3. Electronic Equipment Placeholders,R01
+32,PDB-05-505,PDB-05-505_Data_Logger_Placeholder,1,Avionics Module Placeholder (FR4 Eq.),N/A,Packaging Envelope (Assumed),Not Applicable (Envelope),14.0,14.0,Placeholder (GFE/Assumed),3. Electronic Equipment Placeholders,R01
+33,PDB-05-506,PDB-05-506_Generic_Comms_Placeholder,1,Avionics Module Placeholder (FR4 Eq.),N/A,Packaging Envelope (Assumed),Not Applicable (Envelope),16.0,16.0,Placeholder (GFE/Assumed),3. Electronic Equipment Placeholders,R01
+34,PDB-04-403,PDB-04-403_Battery_Isolation_Pad,1,Neoprene / Silicone Elastomer 60A,2.0,Die-Cut Elastomer / Harness Assembly,As-Supplied Matte,3.325,3.325,Purchased,4. Non-Metallic Components,R01
+35,PDB-04-404,PDB-04-404_Battery_Retention_Strap,2,Neoprene / Silicone Elastomer 60A,N/A,COTS Non-Metallic,As-Supplied Matte,0.307,0.614,Purchased,4. Non-Metallic Components,R01
+36,PDB-07-703,PDB-07-703_Power_Harness_Visual,1,Neoprene / Silicone Elastomer 60A,N/A,COTS Non-Metallic,As-Supplied Matte,0.415,0.415,Purchased,4. Non-Metallic Components,R01
+37,PDB-07-704,PDB-07-704_Signal_Harness_Visual,1,Neoprene / Silicone Elastomer 60A,N/A,COTS Non-Metallic,As-Supplied Matte,0.254,0.254,Purchased,4. Non-Metallic Components,R01
+38,PDB-08-805,PDB-08-805_Isolation_Washer_M2_0,8,Neoprene / Silicone Elastomer 60A,0.8,Die-Cut Elastomer / Harness Assembly,As-Supplied Matte,0.009,0.074,Purchased,4. Non-Metallic Components,R01
